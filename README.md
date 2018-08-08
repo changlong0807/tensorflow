@@ -1,2 +1,2 @@
-# tensorflow
-learn tensorflow
+# 学习tensorflow
+记录自己学习tensorflow
